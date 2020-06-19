@@ -5,6 +5,8 @@ An Discord Basic Bot. With an guide.
 
 All that you need to install is in the INDEX.JS. 
 
+If you are going to clone / download this, then, put in the console, "npm i", to install all the packages.
+
 
 # Actualizations
 
