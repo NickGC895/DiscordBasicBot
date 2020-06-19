@@ -1,0 +1,19 @@
+
+
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Basic Discord Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "DISS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
